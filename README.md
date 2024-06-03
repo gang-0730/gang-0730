@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+## I am AI software engineer in Shingu college
+
+### 안녕하세요 저는 AI소프트웨어 공부하는 학생입니다
+화이팅
+
 <!--
 **gang-0730/gang-0730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
